@@ -36,7 +36,6 @@ The project also includes a health check endpoint and runs as a non-root user in
 .
 ├── src/
 │   └── index.ts
-├── dist/                # Compiled output
 ├── Dockerfile.single    # Single-stage build
 ├── Dockerfile.multistage# Multi-stage optimized build
 ├── package.json
