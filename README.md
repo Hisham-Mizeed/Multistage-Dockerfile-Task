@@ -12,7 +12,6 @@ The project also includes a health check endpoint and runs as a non-root user in
 ---
 ## 📥 Clone Repository
 
-```bash
 git clone https://github.com/Hisham-Mizeed/Multistage-Dockerfile-Task.git
 cd Multistage-Dockerfile-Task
 
